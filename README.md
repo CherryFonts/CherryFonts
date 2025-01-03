@@ -3,7 +3,7 @@
 - 🌱 I’m not a font engineer. I work full time in IT, but more in VM management and SysEng, not software dev. 
 - 💞️ I’m looking to collaborate on: I may release a nice old style font (and others) to Google, if I can get some font engineering assistance.
 - 📫 How to reach me: cherryfonts@gmail.com
-- 😄 Pronouns: Yo!
+- 😄 Pronouns: Whatever you like.
 - ⚡ Fun fact: I'm almost retired. I've been designing vector-based type since the late 80s but took a very long haiatus to earn a living.
 
 <!---
