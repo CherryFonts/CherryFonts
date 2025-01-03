@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: I may release a nice old style font (and others) to Google, if I can get some font engineering assistance.
 - 📫 How to reach me: cherryfonts@gmail.com
 - 😄 Pronouns: Whatever you like.
-- ⚡ Fun fact: I'm almost retired. I've been designing vector-based type since the late 80s but took a very long haiatus to earn a living.
+- ⚡ Fun fact: I'm almost retired. I've been designing vector-based type since the late 80s but took a very long hiatus to earn a living.
 
 <!---
 CherryFonts/CherryFonts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
