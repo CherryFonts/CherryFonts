@@ -1,5 +1,5 @@
 -  Todd Johnson, a founder of @CherryFonts, which is a (now hobby) type design foundry operating since 1989-ish.
--  Design interests: very early printed type and various script hands up to that period.
+-  Design interests: very early printed type and calligraphy (various script hands up to that period).
 -  I’m not a font engineer. I work full time in IT, in corporate systems management and SysEng, not software dev. 
 -  Potential collaboration: I may release a nice old style font (and others) as open source, if I can get some font engineering assistance.
 -  How to reach me: cherryfonts@gmail.com
